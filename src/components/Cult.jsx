@@ -2,7 +2,7 @@ import React from 'react'
 
 function Cult() {
   return (
-<div className="w-100  flex-col  justify-center  text-center text-9xl">
+<div className="w-100  flex-col  justify-center  text-center text-9xl mt-[15%]">
 <h2>The Cult</h2>
 <div class="w-3/4 grid grid-cols-3 gap-6 mx-auto self-center">  <img src="haed.jpg" alt="Post 1" class="w-full h-auto object-cover"/>
   <img src="babyblonde.jpg" alt="Post 2" class="w-full h-auto object-cover"/>

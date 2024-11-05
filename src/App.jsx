@@ -4,6 +4,7 @@ import Tilt from './components/Tilt'
 import Bloody from './components/Bloody'
 import About from './components/About'
 import Cult from './components/Cult'
+import Track from './components/Track'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
      <Bloody/>
      <About/>
      <Cult/>
+     <Track/>
 
     </>)
 }
