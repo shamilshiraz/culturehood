@@ -3,3 +3,6 @@ body{
   overflow-x: hidden;
   font-family: 'goth';
 }
+::-webkit-scrollbar{
+  display: none;
+}
